@@ -3,7 +3,7 @@ title: "The State of Data Curation at NeurIPS: An Assessment of Dataset Developm
 collection: publications
 category: conferences
 permalink: /publication/2024-01-03-state-of-data-curation-neurips
-excerpt: 'Cross-domain integration of information is increasingly identified as a priority across public sector contexts because (in theory) it enables the use of more information, including information from groups and communities historically excluded from public sector decision making. In this paper, we reject the tendency to take ‘integration’ for granted, arguing the need to position cross-domain integration as an information practice, and conducting mixed methods thematic analysis of government strategic documents to validate the utility of this approach.'
+excerpt: 
 date: 2024-01-03
 venue: '2024 Conference on Neural Information Processing Systems (NeurIPS 2024)'
 paperurl: 'https://arxiv.org/pdf/2410.22473'
