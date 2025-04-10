@@ -14,6 +14,6 @@ More specifically, my research interests are **data and information practice** a
 I developed and teach courses on sampling methods and data visualization, and have led workshops and invited talks on 'Reading and Writing About Data' and 'Critical Data Scholarship'.
 
 ## Education 
-- 🖥️ PhD in Information, Ongoing
-- 📖 Master of Information (Knowledge Management and Information Management), 2022
-- 🔬 Hons. Bachelor of Science in Integrated Science (Biology), 2020
+- 🖥️ PhD in Information (University of Toronto), Ongoing
+- 📖 Master of Information (University of Toronto), 2022
+- 🔬 Hons. Bachelor of Science in Integrated Science (McMaster University), 2020
