@@ -21,4 +21,4 @@ I developed and teach courses on sampling methods and data visualization, and ha
 ## Current Projects 
 - 📝 Dissertation work (upcoming proposal defense, ongoing literature review)
 - 🍁 Comparing government data and AI strategies (reviewing corpus of policy documents)
-- ✍️ Evaluating expert interdisciplinary learning practices (coding interview transcripts)
+- 🎓 Evaluating expert interdisciplinary learning practices (coding interview transcripts)
