@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-## Course Instructor
+## 🍎 Course Instructor
 
 ### Data Sciences Institute, University of Toronto
 
@@ -15,7 +15,7 @@ redirect_from:
 - Data Visualization (Fall 2023, Winter 2024, Summer 2024, Fall 2024, Winter 2025) [Course Materials](https://github.com/UofT-DSI/Visualization)
 
 
-## Teaching Assistant
+## 🍏 Teaching Assistant
 
 ### Faculty of Information, University of Toronto
 
