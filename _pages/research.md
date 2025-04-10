@@ -54,7 +54,7 @@ Working as an affiliate of the [Just Sustainability Design Lab](https://justsust
 - [Bhardwaj, E., Gujral, H., Wu, S., Zogheib, C., Maharaj, T., & Becker, C. (2024, June). Machine learning data practices through a data curation lens: An evaluation framework. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1055-1067).](https://dl.acm.org/doi/abs/10.1145/3630106.3658955?casa_token=NmsmY2IXZvQAAAAA%3AebTZOZMSqyuPp5NZv41vg_ipW1fxGooRbfLdFr3ARbbU9u8_0uSofjUEZAEpOhHpl6xjTulsGb_02_I)
 
 
-## ⛏️ Archaeological Information
+## ⛏️ Archaeological Data
 
 My first experience working as a database administrator and data analyst was for the [Stelida Naxos Archaeological Project](https://www.stelida.org/english), led by [Tristan Carter](https://experts.mcmaster.ca/display/stringy).
 
