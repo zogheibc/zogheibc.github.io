@@ -56,7 +56,7 @@ Working as an affiliate of the [Just Sustainability Design Lab](https://justsust
 
 ## ⛏️ Archaeological Information
 
-My first experience working as a database administrator and data analyst was for the [Stelida Naxos Archaeological Project](https://www.stelida.org/english), led by [Tristan Carter](https://experts.mcmaster.ca/display/stringy)
+My first experience working as a database administrator and data analyst was for the [Stelida Naxos Archaeological Project](https://www.stelida.org/english), led by [Tristan Carter](https://experts.mcmaster.ca/display/stringy).
 
 - [Contreras, D. A., Batist, Z., Zogheib, C., & Carter, T. (2021). Matching pragmatic lithic analysis and proper data architecture: The QuARI R shiny database interface. Advances in Archaeological Practice, 9(4), 299-311.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1ADF972A3468D7B59B721F52488527B6/S2326376821000115a.pdf/matching_pragmatic_lithic_analysis_and_proper_data_architecture.pdf)
 
