@@ -9,7 +9,9 @@ redirect_from:
 
 This page is sorted (broadly) by research projects, but there's overlap!
 
-# Ongoing Projects
+***
+
+# Current Projects
 
 ## 📝 Cross-domain and Interdisciplinary Data Practice
 
@@ -41,6 +43,7 @@ With [Malayna Bernstein](https://discover.research.utoronto.ca/32497-malayna-ber
 ### Working Papers
 - Bernstein, M., Zogheib, C. (Forthcoming, accepted) Changing Writing, Writing for Change: Examining Expert Writers' Interdisciplinary Transformations. American Educational Research Association 2025 Annual Meeting.
 
+***
 
 # Past Projects
 
