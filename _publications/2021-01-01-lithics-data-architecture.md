@@ -3,7 +3,7 @@ title: "Matching pragmatic lithic analysis and proper data architecture: The QuA
 collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-lithics-data-architecture
-excerpt: 'We present here an R Shiny solution that enables lithic analysts to enter data for both individual artifacts and aggregates of artifacts while maintaining a robust yet flexible data structure. This takes the form of a browser-based database interface that uses R to query existing data and transform new data as necessary so that users entering data of varying resolutions still produce data structured around individual artifacts.'
+excerpt: 
 date: 2021-01-01
 venue: 'Advances in Archaeological Practice'
 slidesurl: #nothing
