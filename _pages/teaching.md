@@ -12,7 +12,7 @@ redirect_from:
 ### Data Sciences Institute, University of Toronto
 
 - Sampling (Winter 2024, Summer 2024, Fall 2024, Winter 2025) [Course Materials](https://github.com/UofT-DSI/sampling)
-- Data Visualization (Fall 2023, Winter 2024, Summer 2024, Fall 2024, Winter 2025) [Course Materials]](https://github.com/UofT-DSI/Visualization)
+- Data Visualization (Fall 2023, Winter 2024, Summer 2024, Fall 2024, Winter 2025) [Course Materials](https://github.com/UofT-DSI/Visualization)
 
 
 ## Teaching Assistant
