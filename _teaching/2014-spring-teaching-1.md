@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Sampling and Data Visualization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Data Sciences Institute, University of Toronto"
 date: 2014-01-01
 location: "City, Country"
 ---
