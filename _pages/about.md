@@ -19,6 +19,6 @@ I developed and teach courses on sampling methods and data visualization, and ha
 - 🔬 Hons. Bachelor of Science in Integrated Science (McMaster University), 2020
 
 ## Current Projects 
-- 📝 Dissertation work (upcoming proposal defense, ongoing literature review)
+- 📝 Dissertation work (upcoming proposal defense, ongoing literature review and empirical work)
 - 🍁 Comparing government data and AI strategies (reviewing corpus of policy documents)
 - 🎓 Evaluating expert interdisciplinary learning practices (coding interview transcripts)
