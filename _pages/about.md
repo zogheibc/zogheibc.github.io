@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 I am a PhD student at the University of Toronto’s [Faculty of Information](https://ischool.utoronto.ca/), under the supervision of [Rohan Alexander](https://rohanalexander.com/). 
 
 My research interests are **data and information practice**, and **interdisciplinarity**—I combine the two for my dissertation research, where I explore the social practices of data integration in interdisciplinary research settings. 
