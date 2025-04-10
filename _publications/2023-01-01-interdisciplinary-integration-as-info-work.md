@@ -1,5 +1,5 @@
 ---
-title: " Interdisciplinary Integration as Information Work"
+title: "Interdisciplinary Integration as Information Work"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-interdisciplinary-integration-as-info-work
