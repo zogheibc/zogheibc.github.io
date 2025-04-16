@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-This page is sorted (broadly) by research projects, but there's overlap! I publish in multiple disciplines, with different norms - for example, in the computer sciences, a publication in a 'conference proceeding' is peer-reviewed and equivalent to a peer-reviewed journal article in most social sciences fields. I have marked those equivalent publications with a "\*\" below.
+This page is sorted (broadly) by research projects, but there's overlap! I publish in multiple disciplines, with different norms - for example, in the computer sciences, a publication in a conference proceeding is peer-reviewed and equivalent to a peer-reviewed journal article in most social sciences fields. I have marked those equivalent publications with a "\*\" below.
 
 ***
 
