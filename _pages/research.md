@@ -33,7 +33,7 @@ Working with [Kaushar Mahetaji](https://www.kausharmahetaji.com/) and [Ryan Spen
 - [Zogheib, C., & Mahetaji, K. (2024). Cross-Domain Information Integration in Government: Hierarchies and Responsibilities. Proceedings of the Association for Information Science and Technology, 61(1), 469-480.](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.1043?casa_token=aaXDAuyU3rsAAAAA%3APcdXOdMgoz4l8RaeIbrLR_Oj5b-cSujvKr5jKzLX1uEFjlri6Cd3lYs1pcIYpwDzspH1XeBs92WQKd0C)
 
 ### Working Papers
-- [Zogheib, C., Mahetaji, K., Spencer, R. (Submitted) Intersections Between Government Data and AI Strategies: A Case Study of Technology Policies in Canada's Federal Service.](https://zogheibc.github.io/files/DataAIPolicies.pdf)
+- [Zogheib, C., Mahetaji, K., Spencer, R. (Accepted to ASIS&T 2025) Intersections Between Government Data and AI Strategies: A Case Study of Technology Policies in Canada's Federal Service.](https://zogheibc.github.io/files/DataAIPolicies.pdf)
 
 
 ## 🎓 Interdisciplinary Expertise
