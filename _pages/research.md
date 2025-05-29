@@ -15,7 +15,7 @@ This page is sorted (broadly) by research projects, but there's overlap! I publi
 
 ## 📝 Cross-domain and Interdisciplinary Data Practice
 
-My current main focus and my dissertation project, I'm framing cross-domain integration (think: synthesis) as a data/information practice so that cross-domain researchers can better understand and articulate how they are integrating data from multiple domains.
+My current main focus and my dissertation project, I'm framing cross-domain integration (think: synthesis) as a data/information practice so that cross-domain researchers can better understand and articulate how they are integrating data from multiple domains. This work is supported by a SSHRC Doctoral Fellowship and a Coalition Publica Doctoral Scholarship.
 
 ### Publications 
 - \* [Zogheib, C. (2023). Interdisciplinary Integration as Information Work. Issues In Interdisciplinary Studies, 41(1).](https://zogheibc.github.io/files/2023-01-01-interdisciplinary-integration-as-info-work.pdf)
