@@ -27,7 +27,7 @@ My current main focus and my dissertation project, I'm framing cross-domain inte
 
 ## 🍁 Data and AI Policy in the Public Sector
 
-Working with [Kaushar Mahetaji](https://www.kausharmahetaji.com/) and [Ryan Spencer](https://ca.linkedin.com/in/ryan-spencer-81478064), with support from a Faculty of Information research fellowship, we are exploring connections between government data and AI strategy documents.
+Working with [Kaushar Mahetaji](https://www.kausharmahetaji.com/) and [Ryan Spencer](https://ca.linkedin.com/in/ryan-spencer-81478064), with support from a Faculty of Information research fellowship, we are exploring connections between government data and AI policy documents.
 
 ### Publications 
 - [Zogheib, C., & Mahetaji, K. (2024). Cross-Domain Information Integration in Government: Hierarchies and Responsibilities. Proceedings of the Association for Information Science and Technology, 61(1), 469-480.](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.1043?casa_token=aaXDAuyU3rsAAAAA%3APcdXOdMgoz4l8RaeIbrLR_Oj5b-cSujvKr5jKzLX1uEFjlri6Cd3lYs1pcIYpwDzspH1XeBs92WQKd0C)
@@ -40,8 +40,8 @@ Working with [Kaushar Mahetaji](https://www.kausharmahetaji.com/) and [Ryan Spen
 
 With [Malayna Bernstein](https://discover.research.utoronto.ca/32497-malayna-bernstein), with support from a Faculty of Information research fellowship, we are analyzing interviews carried out with expert artist-scholars during a residency at an interdisciplinary research centre to learn about their writing practice and interdisciplinary learning. 
 
-### Working Papers
-- Bernstein, M., Zogheib, C. (Forthcoming, accepted) Changing Writing, Writing for Change: Examining Expert Writers' Interdisciplinary Transformations. American Educational Research Association 2025 Annual Meeting.
+### Publications
+- Bernstein, M., Zogheib, C. (American Education Research Association 2205 Annual Meeting) Changing Writing, Writing for Change: Examining Expert Writers' Interdisciplinary Transformations. 
 
 ***
 
