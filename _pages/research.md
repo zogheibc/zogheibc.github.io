@@ -22,8 +22,8 @@ My current main focus and my dissertation project, I'm framing cross-domain inte
 - See also 'Cross-Domain Information Integration in Government: Hierarchies and Responsibilities', linked below!
 
 ### Working Papers
-- Zogheib, C. (Revisions underway) Data Practices of Cross-Domain Integration: Draw-and-Write Interviews with Interdisciplinary Scientists
-- Zogheib, C (Revisions underway) Cross-Disciplinary Integration: Information Practices and a Role for Information Scholars
+- * Zogheib, C. (Revisions underway) Data Practices of Cross-Domain Integration: Draw-and-Write Interviews with Interdisciplinary Scientists
+- * Zogheib, C (Revisions underway) Cross-Disciplinary Integration: Information Practices and a Role for Information Scholars
 
 
 ## 🍁 Data and AI Policy in the Public Sector
@@ -42,7 +42,7 @@ Working with [Kaushar Mahetaji](https://www.kausharmahetaji.com/) and [Ryan Spen
 ## 📊 Data Curation and documentation
 Working as an affiliate of the [Just Sustainability Design Lab](https://justsustainabilitydesign.org/members/ciara-zogheib.html) at the University of Toronto, we developed and evaluated a framework for evaluating the data curation practices being undertaken during machine learning research. That work led to additional collaboration, where we consider how structured dataset documentation tools facilitate (or fail to facilitate) reflexive practice.
 
-- Bhardwaj, E.†, Zogheib, C.†, Becker, C. (In Revision) Deliberating on Reflexivity: Evaluation of Structured Documentation as a Tool for Reflexive Dataset Development. FAccT ’26.
+- \* Bhardwaj, E.†, Zogheib, C.†, Becker, C. (In Revision) Deliberating on Reflexivity: Evaluation of Structured Documentation as a Tool for Reflexive Dataset Development. FAccT ’26.
 - \* [Bhardwaj, E., Gujral, H., Wu, S., Zogheib, C., Maharaj, T., & Becker, C. (2024). The State of Data Curation at NeurIPS: An Assessment of Dataset Development Practices in the Datasets and Benchmarks Track. 2024 Conference on Neural Information Processing Systems (NeurIPS 2024), Vancouver, British Columbia.](https://arxiv.org/pdf/2410.22473)
 - \* [Bhardwaj, E., Gujral, H., Wu, S., Zogheib, C., Maharaj, T., & Becker, C. (2024, June). Machine learning data practices through a data curation lens: An evaluation framework. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1055-1067).](https://dl.acm.org/doi/abs/10.1145/3630106.3658955?casa_token=NmsmY2IXZvQAAAAA%3AebTZOZMSqyuPp5NZv41vg_ipW1fxGooRbfLdFr3ARbbU9u8_0uSofjUEZAEpOhHpl6xjTulsGb_02_I)
 
