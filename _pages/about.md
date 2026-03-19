@@ -19,6 +19,6 @@ I developed and teach courses on sampling methods and data visualization, and ha
 - 🔬 Hons. Bachelor of Science in Integrated Science (McMaster University), 2020
 
 ## Current Projects 
-- 📝 Dissertation work (literature review abstract accepted for publication! Ongoing empirical work)
-- 🍁 Comparing data and AI strategy documents (short paper accepted to ASIS&T 2025! Ongoing review of larger corpus of government policy documents)
-- 🎓 Evaluating expert interdisciplinary learning practices (coding interview transcripts)
+- 📝 Dissertation work (final revisions on literature review paper and empirical paper in progress)
+- 🍁 Comparing data and AI strategy documents (short paper accepted to [ASIS&T 2025](https://doi.org/10.1002/pra2.1333)! Full-length paper exploring a larger corpus of government policy documents under review)
+- 💻 Considering structured dataset documentation as tools for reflexivity (completing revisions on FAccT'26 manuscript)
