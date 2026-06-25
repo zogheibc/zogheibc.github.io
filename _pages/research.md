@@ -18,7 +18,7 @@ This page is sorted (broadly) by research projects, but there's overlap! I publi
 My current main focus and my dissertation project, I'm framing cross-domain integration (think: synthesis) as a data/information practice so that cross-domain researchers can better understand and articulate how they are integrating data from multiple domains. This work is supported by a SSHRC Doctoral Fellowship and a Coalition Publica Doctoral Scholarship.
 
 ### Publications 
-- * [Zogheib, C. (2026). Cross-disciplinary integration: Information practices and a role for information scholars. An annual review of information science and technology paper. Journal of the Association for Information Science and Technology, 1–17. https://doi.org/10.1002/asi.70085](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.70085)
+- \* [Zogheib, C. (2026). Cross-disciplinary integration: Information practices and a role for information scholars. An annual review of information science and technology paper. Journal of the Association for Information Science and Technology, 1–17. https://doi.org/10.1002/asi.70085](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.70085)
 * Zogheib, C. (Accepted; Forthcoming) Data Practices of Cross-Domain Integration: Draw-and-Write Interviews with Interdisciplinary Scientists
 - \* [Zogheib, C. (2023). Interdisciplinary Integration as Information Work. Issues In Interdisciplinary Studies, 41(1).](https://zogheibc.github.io/files/2023-01-01-interdisciplinary-integration-as-info-work.pdf)
 - See also 'Cross-Domain Information Integration in Government: Hierarchies and Responsibilities', linked below!
@@ -31,12 +31,12 @@ My current main focus and my dissertation project, I'm framing cross-domain inte
 Working with [Kaushar Mahetaji](https://www.kausharmahetaji.com/) and [Ryan Spencer](https://ca.linkedin.com/in/ryan-spencer-81478064), with support from a Faculty of Information research fellowship, we are exploring connections between government data and AI policy documents.
 
 ### Publications 
-- [Mahetaji, K., Zogheib, C., Spencer, R. (2025) Intersections Between Government Data and AI Strategies: A Case Study of Technology Policies in Canada's Federal Service.](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.1333)
-- [Zogheib, C. & Mahetaji, K. (2024). Cross-Domain Information Integration in Government: Hierarchies and Responsibilities. Proceedings of the Association for Information Science and Technology, 61(1), 469-480.](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.1043?casa_token=aaXDAuyU3rsAAAAA%3APcdXOdMgoz4l8RaeIbrLR_Oj5b-cSujvKr5jKzLX1uEFjlri6Cd3lYs1pcIYpwDzspH1XeBs92WQKd0C)
+- [Mahetaji, K.†, Zogheib, C.†, Spencer, R. (2025) Intersections Between Government Data and AI Strategies: A Case Study of Technology Policies in Canada's Federal Service.](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.1333)
+- [Zogheib, C.† & Mahetaji, K.† (2024). Cross-Domain Information Integration in Government: Hierarchies and Responsibilities. Proceedings of the Association for Information Science and Technology, 61(1), 469-480.](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.1043?casa_token=aaXDAuyU3rsAAAAA%3APcdXOdMgoz4l8RaeIbrLR_Oj5b-cSujvKr5jKzLX1uEFjlri6Cd3lYs1pcIYpwDzspH1XeBs92WQKd0C)
 
 
 ### Working Papers
-- Zogheib, C., Mahetaji, K., Spencer, R. (Under revision) Intersections between Government Data and AI Strategies: Comparative Policy Analysis at Multiple Levels of Government
+- Zogheib, C.†, Mahetaji, K.†, Spencer, R. (Under revision) Intersections between Government Data and AI Strategies: Comparative Policy Analysis at Multiple Levels of Government
 
 
 ## 📊 Data Curation and documentation
