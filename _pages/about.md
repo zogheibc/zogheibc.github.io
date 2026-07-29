@@ -20,5 +20,5 @@ I developed and teach courses on sampling methods and data visualization, and ha
 
 ## Current Projects 
 - 📝 Dissertation work (literature review now published at [ARIST](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.70085)! Empirical paper forthcoming at Issues in Interdisciplinary Studies.)
-- 🍁 Comparing data and AI strategy documents (Short paper accepted to [ASIS&T 2025](https://doi.org/10.1002/pra2.1333)! Full-length paper exploring a larger corpus of government policy documents under review.)
+- 🍁 Comparing data and AI strategy documents (Short paper accepted to [ASIS&T 2025](https://doi.org/10.1002/pra2.1333)! Full-length paper exploring a larger corpus of government policy documents under review now.)
 - 💻 Considering structured dataset documentation as tools for reflexivity ([FAccT'26 paper out now!](https://dl.acm.org/doi/10.1145/3805689.3812411))
